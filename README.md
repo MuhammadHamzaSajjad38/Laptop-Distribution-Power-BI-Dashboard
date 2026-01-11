@@ -23,7 +23,7 @@ You can request the file or download it from:
 ( Google Drive / OneDrive link here )
 
 ## Dashboard Preview
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](./dashboard_overview.png)
 
 ## Author
 Muhammad Hamza Sajjad  
