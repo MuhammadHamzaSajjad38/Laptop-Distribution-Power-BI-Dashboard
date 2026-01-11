@@ -16,14 +16,8 @@ Prime Minister Laptop Scheme (University of Mianwali – 2023).
 - Power Query
 - DAX
 
-## Power BI File
-⚠️ The Power BI `.pbix` file is not included in this repository due to GitHub file size limitations.
-
-You can request the file or download it from:
-( Google Drive / OneDrive link here )
-
 ## Dashboard Preview
-![Dashboard Overview](./dashboard_overview.png)
+![Dashboard Overview](dashboard.png)
 
 ## Author
 Muhammad Hamza Sajjad  
